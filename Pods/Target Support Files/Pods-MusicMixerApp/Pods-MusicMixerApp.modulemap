@@ -1,0 +1,6 @@
+framework module Pods_MusicMixerApp {
+  umbrella header "Pods-MusicMixerApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

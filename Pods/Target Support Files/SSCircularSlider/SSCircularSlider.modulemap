@@ -1,0 +1,6 @@
+framework module SSCircularSlider {
+  umbrella header "SSCircularSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}

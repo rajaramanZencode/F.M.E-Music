@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMixerApp/Dashboard/Dashboard.swift"
+            timestampString = "562330765.55362"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "366"
+            endingLineNumber = "366"
+            landmarkName = "sliderValueChanged(type:volume:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "F_M_E__Music.DashboardController.sliderValueChanged(type: F_M_E__Music.InstrumentType, volume: Swift.Float) -&gt; ()"
+                  moduleName = "F.M.E. Music"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zencodedeveloper/Raja%20Workspace/Personall/Music%20app/MusixMixerApp/MusicMixerApp/MusicMixerApp/Dashboard/Dashboard.swift"
+                  timestampString = "562326805.396045"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "354"
+                  endingLineNumber = "354"
+                  offsetFromSymbolStart = "526">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (F_M_E__Music.Instruments) -&gt; Swift.Bool in F_M_E__Music.DashboardController.sliderValueChanged(type: F_M_E__Music.InstrumentType, volume: Swift.Float) -&gt; ()"
+                  moduleName = "F.M.E. Music"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zencodedeveloper/Raja%20Workspace/Personall/Music%20app/MusixMixerApp/MusicMixerApp/MusicMixerApp/Dashboard/Dashboard.swift"
+                  timestampString = "562326805.398491"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "354"
+                  endingLineNumber = "354"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMixerApp/Dashboard/Dashboard.swift"
+            timestampString = "562330765.5542001"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "controlValueUpdated(value:slider:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "F_M_E__Music.DashboardController.controlValueUpdated(value: Swift.Int, slider: SSCircularSlider.SSCircularRingSlider) -&gt; ()"
+                  moduleName = "F.M.E. Music"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zencodedeveloper/Raja%20Workspace/Personall/Music%20app/MusixMixerApp/MusicMixerApp/MusicMixerApp/Dashboard/Dashboard.swift"
+                  timestampString = "562326805.406391"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (F_M_E__Music.Instruments) -&gt; Swift.Bool in F_M_E__Music.DashboardController.controlValueUpdated(value: Swift.Int, slider: SSCircularSlider.SSCircularRingSlider) -&gt; ()"
+                  moduleName = "F.M.E. Music"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zencodedeveloper/Raja%20Workspace/Personall/Music%20app/MusixMixerApp/MusicMixerApp/MusicMixerApp/Dashboard/Dashboard.swift"
+                  timestampString = "562326805.409032"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMixerApp/Dashboard/Dashboard.swift"
+            timestampString = "562330765.554498"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
+            landmarkName = "controlValueUpdated(value:slider:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

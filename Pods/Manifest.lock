@@ -1,0 +1,45 @@
+PODS:
+  - Crashlytics (3.10.9):
+    - Fabric (~> 1.7.13)
+  - Fabric (1.7.13)
+  - IQKeyboardManagerSwift (6.2.0)
+  - SKActivityIndicatorView (0.1.0)
+  - SnapKit (4.2.0)
+  - SSCircularSlider (1.0.5)
+  - Toaster (2.1.1)
+  - VerticalSteppedSlider (0.1.0)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - IQKeyboardManagerSwift
+  - SKActivityIndicatorView
+  - SnapKit
+  - SSCircularSlider
+  - Toaster
+  - VerticalSteppedSlider
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Crashlytics
+    - Fabric
+    - IQKeyboardManagerSwift
+    - SKActivityIndicatorView
+    - SnapKit
+    - SSCircularSlider
+    - Toaster
+    - VerticalSteppedSlider
+
+SPEC CHECKSUMS:
+  Crashlytics: 55e24fc23989680285a21cb1146578d9d18e432c
+  Fabric: 25d0963b691fc97be566392243ff0ecef5a68338
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  SKActivityIndicatorView: f46936f760d33eb8235333242269bf01cc9248ae
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SSCircularSlider: 91c818e6e44b10b4a964cc9973f1a238d2e2b308
+  Toaster: a6c9532de1ded8105e77376f7dffeb2e12b46dbb
+  VerticalSteppedSlider: c1513f095cda3d27e327de7fab6d3f8425a8dc46
+
+PODFILE CHECKSUM: c48e041df40372ac10e47079a1f9b1e70823691c
+
+COCOAPODS: 1.5.3
