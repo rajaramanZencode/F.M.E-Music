@@ -10,7 +10,7 @@ import UIKit
 
 struct GlobalConstants
 {
-    static let kAppName = "CircleIt"
+    static let kAppName = "CircleIt" 
     static let kCommonSpacing:CGFloat = 10
     static let kMinimumSpacing:CGFloat = 5
     static let kMaxSpacing:CGFloat = 15
